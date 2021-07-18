@@ -1,0 +1,9 @@
+@@import url("https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-insiders.4a070ac/tailwind.min.css");
+
+.custom-pagination-brand-blue {
+    height: 10px;
+    width: 100px;
+}
+
+body {
+}

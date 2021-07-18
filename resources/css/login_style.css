@@ -1,0 +1,43 @@
+body {
+    background-color:#e0e1e9;
+    background-image: url("../images/one.jpg");
+}
+
+.container {
+    align: center;
+    width: 35%;
+    background-color: white;
+    padding: 75px;
+    margin-top: 5%;
+    border-radius: 10px;
+    border:none;
+}
+
+#fb {
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.first_w {
+    font-size: 50px;
+}
+
+.form-group {
+    margin: 20px 0;
+    font-weight: bold;
+}
+#already {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 20px 0 0 0;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #a1d1a499;
+}
+#already small {
+    margin-left:35px;
+}

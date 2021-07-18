@@ -1,0 +1,32 @@
+#logout {
+    background-color: green;
+    color: white;
+    float: right;
+    height: 40px;
+    margin: 0px 0px 0px 1080px;
+}
+
+
+
+
+.collapse {
+    display: inline-block;
+}
+
+
+.guest {
+    color: red;
+        
+}
+
+#footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+
+
