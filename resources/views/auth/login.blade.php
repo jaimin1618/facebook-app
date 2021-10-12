@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     
-    <link rel="stylesheet" href="{{asset('resources/css/login_style.css')}}" type="text/css">
+    <link rel="stylesheet" href="{{asset('css/login_style.css')}}" type="text/css">
             
     <div class="container">
         <h1 id="fb"> <span class="first_w">F</span>acebook <span class="first_w">L</span>ogin</h1>

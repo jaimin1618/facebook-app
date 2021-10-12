@@ -1,5 +1,5 @@
 @props(['posts' => $posts])
-    <link rel="stylesheet" href="{{asset('resources/css/slider.css')}}">
+    <link rel="stylesheet" href="{{asset('css/slider.css')}}">
     
     <div class="main">
         

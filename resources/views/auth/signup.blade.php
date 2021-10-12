@@ -2,7 +2,7 @@
 
 @section('content')
     {{-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'> --}}
-    <link rel="stylesheet" href="{{asset('resources/css/signup_style.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/signup_style.css') }}">
     {{--
     @error('firstname')
         <div class="alert alert-danger" role="alert">

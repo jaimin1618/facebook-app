@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     
-    <link rel="stylesheet" href="{{asset('resources/css/show_style.css')}}">
+    <link rel="stylesheet" href="{{asset('css/show_style.css')}}">
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     

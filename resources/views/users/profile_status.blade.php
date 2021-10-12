@@ -2,7 +2,7 @@
 
 @section('content')
     
-    <link rel="stylesheet" href="{{asset('resources/css/profile_view_style.css')}}"  type="text/css" >
+    <link rel="stylesheet" href="{{asset('css/profile_view_style.css')}}"  type="text/css" >
 
     
     <div class="card" style="width: 25rem;">
